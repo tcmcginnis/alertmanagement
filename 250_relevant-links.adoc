@@ -15,9 +15,10 @@ https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[API Authent
 
 https://github.com/PagerDuty/API_Python_Examples/blob/master/REST_API_v2/Notifications/list_notifications.py[API Python Examples]
 
+https://github.com/PagerDuty/pagerduty-api-python-client[API Python Client]
 
-= Ansible Tower
+= Ansible and Tower
 
-https://docs.microsoft.com/en-us/azure/openshift[**Azure Red Hat OpenShift Documentation**]
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html[Ansible URL Module documentation]
 
 
