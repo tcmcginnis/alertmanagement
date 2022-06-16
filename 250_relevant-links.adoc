@@ -1,0 +1,23 @@
+
+= PagerDuty
+
+https://github.com/orgs/PagerDuty/repositories[**PagerDuty repos in GitHub**]
+
+https://github.com/PagerDuty/developer-docs[Develpper Docs]
+
+https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction[REST API]
+
+https://github.com/PagerDuty/public-support-scripts/tree/master/mass_update_incidents[Public Support Scripts]
+
+https://github.com/PagerDuty/pdpyras[PDPYRAS: PagerDuty Python REST API Sessions]
+
+https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[API Authentication]
+
+https://github.com/PagerDuty/API_Python_Examples/blob/master/REST_API_v2/Notifications/list_notifications.py[API Python Examples]
+
+
+= Ansible Tower
+
+https://docs.microsoft.com/en-us/azure/openshift[**Azure Red Hat OpenShift Documentation**]
+
+
