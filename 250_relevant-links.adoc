@@ -1,24 +1,50 @@
 
 = PagerDuty
 
-https://github.com/orgs/PagerDuty/repositories[**PagerDuty repos in GitHub**]
+=== PagerDuty repos in GitHub
+https://github.com/orgs/PagerDuty/repositories[https://github.com/orgs/PagerDuty/repositories
+]
 
-https://github.com/PagerDuty/developer-docs[Develpper Docs]
 
-https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction[REST API]
+=== -
+=== Developer Docs
+https://github.com/PagerDuty/developer-docs[https://github.com/PagerDuty/developer-docs]
 
-https://github.com/PagerDuty/public-support-scripts/tree/master/mass_update_incidents[Public Support Scripts]
 
-https://github.com/PagerDuty/pdpyras[PDPYRAS: PagerDuty Python REST API Sessions]
+=== -
+=== REST API
+https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction[https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-in=== -
+troduction]
 
-https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[API Authentication]
 
-https://github.com/PagerDuty/API_Python_Examples/blob/master/REST_API_v2/Notifications/list_notifications.py[API Python Examples]
+=== -
+=== Public Support Scripts
+https://github.com/PagerDuty/public-support-scripts[https://github.com/PagerDuty/public-support-scripts]
 
-https://github.com/PagerDuty/pagerduty-api-python-client[API Python Client]
 
+=== -
+=== DPYRAS: PagerDuty Python REST API Sessions
+https://github.com/PagerDuty/pdpyras[https://github.com/PagerDuty/pdpyras]
+
+
+=== -
+=== API Authentication
+https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication]
+
+
+=== -
+=== API Python Examples
+https://github.com/PagerDuty/API_Python_Examples[https://github.com/PagerDuty/API_Python_Examples]
+
+
+=== -
+=== API Python Client
+https://github.com/PagerDuty/pagerduty-api-python-client[https://github.com/PagerDuty/pagerduty-api-python-client]
+
+=== -
+=== -----------------------
 = Ansible and Tower
-
-https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html[Ansible URL Module documentation]
+=== Ansible URL Module documentation
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html[https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html]
 
 
