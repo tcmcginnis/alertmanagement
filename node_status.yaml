@@ -1,0 +1,19 @@
+- name: Check Node Status
+  gather_facts: false
+  hosts: all
+  vars_files:
+    - ./node_status_vars.yaml
+  tasks:
+  - name: Get status from master
+    shell: >
+      host=$(oc get nodes --kubeconfig={{ KUBECONFIG }} | grep -i NotReady | awk '{print $1}');
+      status=$(oc get nodes --kubeconfig={{ KUBECONFIG }} | grep -i NotReady | awk '{print $2}'|uniq );
+      if [ "`echo $status`" == "NotReady" ];
+      then
+        echo "$host"
+      fi;
+    register: capture
+  - name: Send Alert
+    uri:
+      url: "{{ URL }}{{ capture.stdout }}"
+    when: capture.stdout 
