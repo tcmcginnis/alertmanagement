@@ -1,5 +1,5 @@
 # alertmanagement
-Various docuemtation and code to observer and manage alerts
+Various documentation and code to observe and manage alerts
 
 == Relevant links
 include::250_relevant-links.adoc[leveloffset=+2]
