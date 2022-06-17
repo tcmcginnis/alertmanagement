@@ -1,0 +1,2 @@
+KUBECONFIG: /opt/kraken/kubeconfig.ocp3
+URL: http://www.mclabs.us?nodenotready=
