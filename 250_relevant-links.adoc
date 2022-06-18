@@ -2,61 +2,61 @@
 = PagerDuty
 
 === PagerDuty repos in GitHub
-https://github.com/orgs/PagerDuty/repositories[https://github.com/orgs/PagerDuty/repositories
+* https://github.com/orgs/PagerDuty/repositories[https://github.com/orgs/PagerDuty/repositories
 ]
 
 
 === -
 === Developer Docs
-https://github.com/PagerDuty/developer-docs[https://github.com/PagerDuty/developer-docs]
+* https://github.com/PagerDuty/developer-docs[https://github.com/PagerDuty/developer-docs]
 
 
 === -
 === **PagerDuty API Reference**
-https://developer.pagerduty.com/api-reference/e65c5833eeb07-pager-duty-api[https://developer.pagerduty.com/api-reference/e65c5833eeb07-pager-duty-api]
+* https://developer.pagerduty.com/api-reference/e65c5833eeb07-pager-duty-api[https://developer.pagerduty.com/api-reference/e65c5833eeb07-pager-duty-api]
 
-Use this link to access a test PagerDuty V2 API site and test API key :-)  >>> 
-Used in my "PagerDuty-API-dev.py" script
-
+Use this link to access a test PagerDuty V2 API site and test API key :-) *>>> 
+Used in "PagerDuty-API-dev.py" code*
 
 
 === -
 === REST API
-https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction[https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-in=== -
+* https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction[https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-in=== -
 troduction]
 
 
 === -
 === Public Support Scripts
-https://github.com/PagerDuty/public-support-scripts[https://github.com/PagerDuty/public-support-scripts]
+* https://github.com/PagerDuty/public-support-scripts[https://github.com/PagerDuty/public-support-scripts]
 
 
 === -
 === DPYRAS: PagerDuty Python REST API Sessions
-https://github.com/PagerDuty/pdpyras[https://github.com/PagerDuty/pdpyras]
+* https://github.com/PagerDuty/pdpyras[https://github.com/PagerDuty/pdpyras]
 
+*>>> Used in "PagerDuty-API-dev.py" code*
 
 === -
 === API Authentication
-https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication]
+* https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication[https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTUx-authentication]
 
 
 === -
 === API Python Examples
-https://github.com/PagerDuty/API_Python_Examples[https://github.com/PagerDuty/API_Python_Examples]
+* https://github.com/PagerDuty/API_Python_Examples[https://github.com/PagerDuty/API_Python_Examples]
 
 
 === -
 === API Python Client
-https://github.com/PagerDuty/pagerduty-api-python-client[https://github.com/PagerDuty/pagerduty-api-python-client]
+* https://github.com/PagerDuty/pagerduty-api-python-client[https://github.com/PagerDuty/pagerduty-api-python-client]
 
 === -
 === -----------------------
 = Ansible and Tower
 === Ansible GET_URL Module documentation
-https://docs.ansible.com/ansible/latest/collections/ansible/builtin/get_url_module.html[https://docs.ansible.com/ansible/latest/collections/ansible/builtin/get_url_module.html]
+* https://docs.ansible.com/ansible/latest/collections/ansible/builtin/get_url_module.html[https://docs.ansible.com/ansible/latest/collections/ansible/builtin/get_url_module.html]
 
 
 === -
 === Ansible URL Module documentation
-https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html[https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html]
+* https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html[https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html]
